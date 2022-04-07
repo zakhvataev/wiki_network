@@ -1,0 +1,12 @@
+# python scripts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# jupyter notebooks
+.ipynb_checkpoints
+
+# my ignores
+saved_graphs/
+saved_sets/
+TOKEN.txt
