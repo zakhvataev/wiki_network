@@ -4,13 +4,13 @@
 ### Network Summary
 
 - Network source and the description of preprocessing steps.
-- Type of the graph: directed/undirected, heterogeneous/homogeneous, weighted/unweighted, etc.
+- Type of the graph: directed/undirected, weighted/unweighted, etc.
 - Node/Edge attributes.
 - Number of nodes and edges.
 - Diameter, radius.
 - Clustering coefficient (global, average local, histogram).
 - Average path length (histogram).
-- Degree distribution, fitted models by regression/MLE/KS-test.
+- Degree distribution.
 - Gorgeous network layout. Try to show that your network has some structure, play with node sizes and colors, scaling parameters. Tools like Gephi may be useful here.
 
 ### Structural Analysis
