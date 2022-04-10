@@ -19,11 +19,11 @@
 - Degree/Closeness/Betweenness/Katz/Eigenvector centralities, top nodes description.
 - Page-Rank/HITS in a case of directed network, top nodes description.
 - Correlation comparison of centralities.
-- Assortative mixing by node attributes and node degree.
-- Node structural equivalence/similarity.
+<!-- - Assortative mixing by node attributes and node degree. -->
+<!-- - Node structural equivalence/similarity -->
 
 ### Community Detection
 
 - Clique search, k-cores visualization.
-- Best results of various community detection algorithms, both in terms of interpretation and some quality criterion (modularity, silhouette, ground truth partition).
-- The results should be visible on the network layout.
+<!-- - Best results of various community detection algorithms, both in terms of interpretation and some quality criterion (modularity, silhouette, ground truth partition). -->
+<!-- - The results should be visible on the network layout. -->
