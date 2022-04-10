@@ -1,4 +1,4 @@
-# Russian Wikipedia network analisys
+# Russian Wikipedia network analysis
 *This project is dedicated to the creation of a directed network of Wikipedia pages and its analysis*
 
 ### Network Summary
